@@ -1,0 +1,8 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mhemanthkmr/Movie-App.git",
+  "author": "HemanthKumar M <m.hemanthkmr143@gmail.com>",
+  "license": "MIT"
+}
